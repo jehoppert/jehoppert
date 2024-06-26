@@ -1,8 +1,11 @@
-jehoppert@github ~ % summary
+--------------------------------------------------------
+  jehoppert@github ~ % summary
 
-Name: Joseph Hoppert\
-Education: B.A. in Applied Physics\
-Interests: Embeeded Systems & Data Engineering\
-LinkedIn: https://www.linkedin.com/in/josephhoppert/
+  Name: Joseph Hoppert\
+  Education: B.A. in Applied Physics\
+  Interests: Embeeded Systems & Data Engineering\
+  LinkedIn: https://www.linkedin.com/in/josephhoppert/
 
-jehoppert@github ~ % \_
+  jehoppert@github ~ % \_
+
+--------------------------------------------------------
